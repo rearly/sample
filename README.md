@@ -25,6 +25,7 @@ Add the following to httpd.conf:
     chmod +x phpunit.phar
     sudo mv phpunit.phar /usr/local/bin/phpunit
 
+# Edited
 ## Configuring Jenkins
 
 In your project's configuration, click **Add Build Step** and then
